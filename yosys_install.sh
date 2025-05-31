@@ -14,5 +14,5 @@ sudo make install
 
 ## Method-2 
 wget https://github.com/YosysHQ/oss-cad-suite-build/releases/download/2025-05-30/oss-cad-suite-linux-x64-20250530.tgz
-tar -xzf oss-cad-suite-linux-x64-20250530.tgz
+tar -xzvf oss-cad-suite-linux-x64-20250530.tgz
 cd oss-cad-suite-linux-x64-20250530
